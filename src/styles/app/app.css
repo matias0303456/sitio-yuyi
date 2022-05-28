@@ -1,0 +1,32 @@
+/* CSS A NIVEL DE APP */
+@import url("./header.css");
+@import url("./footer.css");
+@import url("./modal.css");
+
+/* PAGINAS */
+@import url("../home/home.css");
+
+:root {
+  --base-dark-color: rgb(14, 111, 85);
+  --base-medium-color: #32a8a2;
+  --base-light-color: #32a844;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Strait", sans-serif;
+}
+
+body {
+  background: linear-gradient(var(--base-dark-color), var(--base-light-color))
+    no-repeat;
+  padding: 13px;
+  padding-bottom: 0;
+}
+
+.mainContent {
+  min-height: 100vh;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

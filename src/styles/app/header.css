@@ -1,0 +1,16 @@
+header {
+  background-color: var(--base-medium-color);
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 0px 3px 5px black;
+}
+
+h1 {
+  font-family: "Niconne", cursive;
+  font-weight: normal;
+  font-size: 70px;
+  color: white;
+  text-shadow: 5px 5px 5px black;
+  font-style: normal !important;
+}
