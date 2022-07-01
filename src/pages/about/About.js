@@ -1,14 +1,14 @@
 import Header from "../../components/Header"
 import Footer from "../../components/Footer"
 
-export default function Error() {
+export default function About() {
     return (
         <>
             <Header />
 
             <main className="mainContent">
 
-                <h2>Página no encontrada</h2>
+                <h2>Acerca de</h2>
 
             </main>
 

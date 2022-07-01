@@ -1,4 +1,9 @@
+import { useNavigate } from "react-router-dom"
+
 export default function Header(){
+
+    const navigate = useNavigate()
+
     return(
         <header>
             <h1>
@@ -6,9 +11,9 @@ export default function Header(){
             </h1>
             <nav>
                 <ul>
-                    <li>Galería</li>
-                    <li>Acerca de</li>
-                    <li>Contacto</li>
+                    <li onClick={() => navigate('/')}>Galería</li>
+                    <li onClick={() => navigate('/acerca-de')}>Acerca de</li>
+                    <li onClick={() => navigate('/contacto')}>Contacto</li>
                 </ul>
             </nav>
         </header>

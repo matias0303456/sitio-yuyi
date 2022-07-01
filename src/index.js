@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import "@fontsource/niconne"
 import "@fontsource/strait"
 import { BrowserRouter } from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import App from './App';
 

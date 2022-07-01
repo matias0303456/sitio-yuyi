@@ -1,5 +1,6 @@
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
+import CarouselComponent from "./components/CarouselComponent";
 
 export default function Gallery() {
 
@@ -10,8 +11,10 @@ export default function Gallery() {
 
             <main className="mainContent">
 
-                <section id="piecesContainer">
-                    
+                <section id="galleryContainer">
+
+                    <CarouselComponent />
+
                 </section>
 
             </main>
