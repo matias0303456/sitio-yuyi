@@ -1,10 +1,9 @@
 /* CSS A NIVEL DE APP */
 @import url("./header.css");
 @import url("./footer.css");
-@import url("./modal.css");
 
 /* PAGINAS */
-@import url("../home/home.css");
+@import url("../gallery/gallery.css");
 
 :root {
   --base-dark-color: rgb(14, 111, 85);

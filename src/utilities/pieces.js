@@ -6,7 +6,8 @@ const pieces = [
         technique: 'dibujo',
         measures: '12x18',
         year: 2012,
-        price: '3223 USD'
+        price: '3223 USD',
+        image: ''
     },
 
     {
@@ -15,7 +16,8 @@ const pieces = [
         technique: 'acrilico',
         measures: '25x32',
         year: 2006,
-        price: '3223 USD'
+        price: '3223 USD',
+        image: ''
     },
 
     {
@@ -24,7 +26,8 @@ const pieces = [
         technique: 'oleo',
         measures: '20x70',
         year: 2022,
-        price: '3223 USD'
+        price: '3223 USD',
+        image: ''
     },
 
     {
@@ -33,7 +36,8 @@ const pieces = [
         technique: 'acuarela',
         measures: '10x40',
         year: 2019,
-        price: '3223 USD'
+        price: '3223 USD',
+        image: ''
     },
 
 

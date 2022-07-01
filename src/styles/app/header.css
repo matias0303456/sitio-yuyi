@@ -6,11 +6,31 @@ header {
   box-shadow: 0px 3px 5px black;
 }
 
-h1 {
+h1,
+nav ul li {
   font-family: "Niconne", cursive;
+  text-shadow: 5px 5px 5px black;
+  color: white;
+}
+
+h1 {
   font-weight: normal;
   font-size: 70px;
-  color: white;
-  text-shadow: 5px 5px 5px black;
   font-style: normal !important;
+}
+
+nav {
+  margin: 20px 0 10px 0;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+nav ul li {
+  margin: 0 30px 0 30px;
+  cursor: pointer;
+  font-size: 30px;
 }
