@@ -1,3 +1,5 @@
+import { Helmet } from "react-helmet"
+
 import Header from "../../components/Header"
 import Footer from "../../components/Footer"
 
@@ -6,12 +8,16 @@ export default function About() {
         <>
             <Header />
 
+            <Helmet>
+                <title>Amelia Yuyi Flores | Acerca De</title>
+            </Helmet>
+
             <main className="mainContent">
 
                 <h2>Acerca de</h2>
 
                 <h3>
-                    AMELIA "YUYI" FLORES 
+                    AMELIA "YUYI" FLORES
                 </h3>
 
                 <h4>

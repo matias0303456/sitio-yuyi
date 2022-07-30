@@ -1,0 +1,12 @@
+#presModal h3,
+#presModal h4 {
+    text-align: center;
+}
+
+#presModal h4{
+    margin-bottom: 20px;
+}
+
+.clickable {
+    text-align: end;
+}

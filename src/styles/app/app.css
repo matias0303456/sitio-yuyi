@@ -1,6 +1,7 @@
 /* CSS A NIVEL DE APP */
 @import url("./header.css");
 @import url("./footer.css");
+@import url("./components/presentationModal.css");
 
 /* PAGINAS */
 @import url("../gallery/gallery.css");
@@ -29,4 +30,8 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   color: #fff;
+}
+
+.cursor-pointer{
+  cursor: pointer;
 }
