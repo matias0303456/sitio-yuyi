@@ -4,6 +4,7 @@
 
 /* PAGINAS */
 @import url("../gallery/gallery.css");
+@import url("../contact/contact.css");
 
 :root {
   --base-dark-color: rgb(14, 111, 85);
@@ -18,8 +19,7 @@
 }
 
 body {
-  background: linear-gradient(var(--base-dark-color), var(--base-light-color))
-    no-repeat;
+  background: linear-gradient(var(--base-dark-color), var(--base-light-color)) no-repeat;
   padding: 13px;
   padding-bottom: 0;
 }
@@ -28,4 +28,5 @@ body {
   min-height: 100vh;
   margin-top: 20px;
   margin-bottom: 20px;
+  color: #fff;
 }

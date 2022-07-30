@@ -13,6 +13,8 @@ export default function Gallery() {
 
                 <section id="galleryContainer">
 
+                    <h2>Galería</h2>
+
                     <CarouselComponent />
 
                 </section>
