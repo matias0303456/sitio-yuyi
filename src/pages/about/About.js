@@ -61,13 +61,6 @@ export default function About() {
                     Lo que aquí se presenta- en primera instancia -son obras de mi autoría con diferentes técnicas de realización, diferentes soportes y temáticas.
                 </p>
 
-                <h3>
-                    TEATRO
-                </h3>
-                <p>
-                    Se presenta diferentes obras de teatro de mi autoria. Para su representación solicitar autorización via mail.
-                </p>
-
             </main>
 
             <Footer />

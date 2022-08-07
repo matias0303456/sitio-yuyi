@@ -19,6 +19,10 @@
   font-family: "Strait", sans-serif;
 }
 
+.cursor-pointer {
+  cursor: pointer;
+}
+
 body {
   background: linear-gradient(var(--base-dark-color), var(--base-light-color)) no-repeat;
   padding: 13px;
@@ -32,6 +36,8 @@ body {
   color: #fff;
 }
 
-.cursor-pointer{
-  cursor: pointer;
+h2 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }

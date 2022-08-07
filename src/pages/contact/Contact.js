@@ -11,7 +11,7 @@ export default function Contact() {
             <Header />
 
             <Helmet>
-                <title>Amelia Yuyi Flores | 404</title>
+                <title>Amelia Yuyi Flores | Contacto</title>
             </Helmet>
 
             <main className="mainContent">
@@ -36,8 +36,10 @@ export default function Contact() {
                         <div className='contactMediaIcon'>
                             <TbBrandLinkedin />
                         </div>
-                        <div className='contactMediaText'>
-                            Linkedin
+                        <div className='contactMediaText cursor-pointer'
+                            onClick={() => window.open('https://www.linkedin.com/in/amelia-flores-b70aa7207/', '_blank')}
+                        >
+                            LinkedIn
                         </div>
                     </article>
                 </section>

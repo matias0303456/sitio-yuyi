@@ -18,7 +18,7 @@ export default function PresentationModal({
         >
             <Modal.Body>
                 <h3>
-                    VIDRIERA ARTÍSTICA VIRTUAL
+                    GALERÍA ARTÍSTICA VIRTUAL
                 </h3>
                 <h4>
                     De Yuyi Flores
