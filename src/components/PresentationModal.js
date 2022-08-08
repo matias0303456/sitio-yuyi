@@ -25,20 +25,23 @@ export default function PresentationModal({
                 </h4>
                 <p>
                     Una mañana, una tarde o una noche tal vez,
-                    paseabas por un pueblo, o una ciudad o por algún lugar del mundo
-                    y viste una vidriera. Solo por el gusto de ver, tal vez comprar algo,
-                    preguntar o simplemente admirar lo que en ella hay. ¿Cuántas vidrieras vimos en la vida?
-                    El paseo de hoy es muy especial. Es el paseo por una página para ver una vidriera particular.
+                    paseabas por un pueblo, por una ciudad o por algún lugar del mundo
+                    y viste una galería artística. Te detuviste, entraste, miraste, sólo por el gusto de mirar,
+                    tal vez comprar algo, preguntar o simplemente admirar lo que en ella hay.
+                    Hoy te invito a un paseo muy especial. Es el paseo por una página web de una
+                    galería artística virtual. Una página que está en construcción y estará en
+                    permanente cambio: diferentes obras, diferentes propuestas, diferentes artistas
+                    e invitados. En definitiva, un arte activo y en movimiento.
                 </p>
                 <p>
                     Pero recuerda:
                     El valor de un objeto no es el objeto,
-                    El valor de un relato, no es el relato.
+                    El valor de un relato no es el relato.
                     El valor de una obra de arte no es la obra en sí.
                 </p>
                 <p>
                     El valor está en el tiempo.
-                    El tiempo que alguien usó para hacer cada cosa de esta vidriera tan especial.
+                    El tiempo que alguien usó para hacer cada cosa de esta galería tan especial.
                     Ese fue mi tiempo, querido amigo, querida amiga.
                     El tiempo de tantos años de trabajo.
                     Un tiempo de disfrute,
@@ -48,9 +51,10 @@ export default function PresentationModal({
                     ¡Tanto tiempo! Y tan poco a la vez.
                 </p>
                 <p>
-                    Pero también es tu tiempo, el que dedicas a ver esta vidriera.
-                    Disfruta, admira, compra, pregunta o solo mira,
-                    porque ese tiempo se suma al mío.
+                    Pero también el valor lo da el espectador que valida la obra artística.
+                    Es tu tiempo, el que dedicas al ver esta galería.
+                    Por todo esto, disfruta, admira, compra, pregunta o solo mira.
+                    Porque ese tiempo se suma al mío.
                 </p>
                 <p>
                     ¡Gracias!
