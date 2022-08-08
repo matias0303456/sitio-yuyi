@@ -1,5 +1,5 @@
 #piecesCarousel {
-    height: 500px;
+    height: 600px;
     width: 1000px;
     max-width: 100%;
     margin: 0 auto;
@@ -15,9 +15,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     margin: 0 auto;
-    height: 400px;
     width: calc(100% - 300px);
-    overflow: scroll;
 }
 
 .carItem {
@@ -58,13 +56,19 @@
 }
 
 @media (max-width:768px) {
-    
+
+    #piecesCarousel {
+        height: min-content;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
     .galleryDisplayer {
         width: 75%;
     }
 
     .carouselImage,
-    .carouselData{
+    .carouselData {
         width: 100%;
         margin: 0 auto;
     }
