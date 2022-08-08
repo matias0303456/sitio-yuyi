@@ -20,77 +20,81 @@ export default function Contact() {
 
             <main className="mainContent">
 
-                <h2>Contacto</h2>
+                <section className='contact-container'>
 
-                <p>
-                    Para más información, me podés contactar por los siguientes medios:
-                </p>
+                    <h2>Contacto</h2>
 
-                <section id='contactMediaSection'>
+                    <p className='contact-p'>
+                        Para más información, me podés contactar por los siguientes medios:
+                    </p>
 
-                    <article className='contactMedia'>
-                        <div className='contactMediaIcon'>
-                            <TbBrandInstagram />
-                        </div>
-                        <div className='contactMediaText cursor-pointer'
-                            onClick={() => window.open('https://www.instagram.com/yuyi63yuyiflores/', '_blank')}
-                        >
-                            Instagram
-                        </div>
-                    </article>
+                    <section id='contactMediaSection'>
 
-                    <article className='contactMedia'>
-                        <div className='contactMediaIcon'>
-                            <TbBrandTwitter />
-                        </div>
-                        <div className='contactMediaText cursor-pointer'
-                            onClick={() => window.open('https://twitter.com/yuyiflores26', '_blank')}
-                        >
-                            Twitter
-                        </div>
-                    </article>
+                        <article className='contactMedia'>
+                            <div className='contactMediaIcon'>
+                                <TbBrandInstagram />
+                            </div>
+                            <div className='contactMediaText cursor-pointer'
+                                onClick={() => window.open('https://www.instagram.com/yuyi63yuyiflores/', '_blank')}
+                            >
+                                Instagram
+                            </div>
+                        </article>
 
-                    <article className='contactMedia'>
-                        <div className='contactMediaIcon'>
-                            <TbBrandFacebook />
-                        </div>
-                        <div className='contactMediaText cursor-pointer'
-                            onClick={() => window.open('https://www.facebook.com/yuyi.a.flores/', '_blank')}
-                        >
-                            Facebook
-                        </div>
-                    </article>
+                        <article className='contactMedia'>
+                            <div className='contactMediaIcon'>
+                                <TbBrandTwitter />
+                            </div>
+                            <div className='contactMediaText cursor-pointer'
+                                onClick={() => window.open('https://twitter.com/yuyiflores26', '_blank')}
+                            >
+                                Twitter
+                            </div>
+                        </article>
 
-                    <article className='contactMedia'>
-                        <div className='contactMediaIcon'>
-                            <TbBrandYoutube />
-                        </div>
-                        <div className='contactMediaText cursor-pointer'
-                            onClick={() => window.open('https://www.youtube.com/channel/UCVSAUP0PBEadoBCB3vMnDCg', '_blank')}
-                        >
-                            YouTube
-                        </div>
-                    </article>
+                        <article className='contactMedia'>
+                            <div className='contactMediaIcon'>
+                                <TbBrandFacebook />
+                            </div>
+                            <div className='contactMediaText cursor-pointer'
+                                onClick={() => window.open('https://www.facebook.com/yuyi.a.flores/', '_blank')}
+                            >
+                                Facebook
+                            </div>
+                        </article>
 
-                    <article className='contactMedia'>
-                        <div className='contactMediaIcon'>
-                            <TbBrandLinkedin />
-                        </div>
-                        <div className='contactMediaText cursor-pointer'
-                            onClick={() => window.open('https://www.linkedin.com/in/amelia-flores-b70aa7207/', '_blank')}
-                        >
-                            LinkedIn
-                        </div>
-                    </article>
+                        <article className='contactMedia'>
+                            <div className='contactMediaIcon'>
+                                <TbBrandYoutube />
+                            </div>
+                            <div className='contactMediaText cursor-pointer'
+                                onClick={() => window.open('https://www.youtube.com/channel/UCVSAUP0PBEadoBCB3vMnDCg', '_blank')}
+                            >
+                                YouTube
+                            </div>
+                        </article>
 
-                    <article className='contactMedia'>
-                        <div className='contactMediaIcon'>
-                            <TbBrandGmail />
-                        </div>
-                        <div className='contactMediaText'>
-                            yuyiflores26@gmail.com
-                        </div>
-                    </article>
+                        <article className='contactMedia'>
+                            <div className='contactMediaIcon'>
+                                <TbBrandLinkedin />
+                            </div>
+                            <div className='contactMediaText cursor-pointer'
+                                onClick={() => window.open('https://www.linkedin.com/in/amelia-flores-b70aa7207/', '_blank')}
+                            >
+                                LinkedIn
+                            </div>
+                        </article>
+
+                        <article className='contactMedia'>
+                            <div className='contactMediaIcon'>
+                                <TbBrandGmail />
+                            </div>
+                            <div className='contactMediaText'>
+                                yuyiflores26@gmail.com
+                            </div>
+                        </article>
+                    </section>
+
                 </section>
 
             </main>

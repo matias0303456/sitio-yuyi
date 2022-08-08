@@ -1,12 +1,17 @@
-#contactMediaSection{
+.contact-container {
+    text-align: center;
+}
+
+#contactMediaSection {
     width: 30%;
     background-color: #fff;
     box-shadow: 5px 5px 10px #000;
     border-radius: 10px;
     color: #000;
+    margin: 0 auto;
 }
 
-.contactMedia{
+.contactMedia {
     width: 50%;
     height: 40px;
     margin: 0 auto;
@@ -15,7 +20,7 @@
     font-size: 17px;
 }
 
-.contactMediaIcon{
+.contactMediaIcon {
     font-size: 25px;
     margin-right: 5px;
 }
