@@ -68,7 +68,7 @@ export default function Contact() {
                                 <TbBrandYoutube />
                             </div>
                             <div className='contactMediaText cursor-pointer'
-                                onClick={() => window.open('https://www.youtube.com/channel/UCVSAUP0PBEadoBCB3vMnDCg', '_blank')}
+                                onClick={() => window.open('https://www.youtube.com/channel/UC2k_bqNr_859nR6SIUHi_4A', '_blank')}
                             >
                                 YouTube
                             </div>
