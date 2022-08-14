@@ -35,9 +35,9 @@ export default function PresentationModal({
                 </p>
                 <p>
                     Pero recuerda:
-                    El valor de un objeto no es el objeto,
-                    El valor de un relato no es el relato.
-                    El valor de una obra de arte no es la obra en sí.
+                    el valor de un objeto no es el objeto,
+                    el valor de un relato no es el relato,
+                    el valor de una obra de arte no es la obra en sí.
                 </p>
                 <p>
                     El valor está en el tiempo.
@@ -45,10 +45,10 @@ export default function PresentationModal({
                     Ese fue mi tiempo, querido amigo, querida amiga.
                     El tiempo de tantos años de trabajo.
                     Un tiempo de disfrute,
-                    Un tiempo de música, canto, oración y encuentros.
-                    Un tiempo en soledad, un tiempo en compañía.
-                    Un tiempo de hacer y de no hacer.
-                    ¡Tanto tiempo! Y tan poco a la vez.
+                    un tiempo de música, canto, oración y encuentros,
+                    un tiempo en soledad, un tiempo en compañía,
+                    un tiempo de hacer y de no hacer.
+                    ¡Tanto tiempo, y tan poco a la vez!
                 </p>
                 <p>
                     Pero también el valor lo da el espectador que valida la obra artística.

@@ -25,7 +25,9 @@
 }
 
 body {
-  background: linear-gradient(var(--base-dark-color), var(--base-light-color)) no-repeat;
+  background-image: url('../../assets/celulas.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 13px;
   padding-bottom: 0;
 }

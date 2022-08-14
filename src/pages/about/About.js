@@ -23,7 +23,7 @@ export default function About() {
                     </h3>
 
                     <h4>
-                        Lic. en Arte- Profesora de Educación Musical y Profesora de Arte en Teatro
+                        Lic. en Arte - Profesora de Educación Musical y Profesora de Arte en Teatro
                     </h4>
 
                     <p>
