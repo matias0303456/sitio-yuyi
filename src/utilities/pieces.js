@@ -7,7 +7,7 @@ const pieces = [
         technique: 'Mixta',
         measures: '50cm x 40cm',
         year: 2022,
-        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1659136980/obras-yuyi/DSC_0015_dubkj5.jpg'
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1660684210/obras-yuyi/DSC_0015_dubkj5-min_bl2mx1.jpg'
     },
 
     {
@@ -17,7 +17,7 @@ const pieces = [
         technique: 'Mixta',
         measures: '40cm x 50cm',
         year: 2022,
-        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1659993118/obras-yuyi/DSC_0019_ec79v0.jpg'
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1660684210/obras-yuyi/DSC_0019_ec79v0-min_dllatm.jpg'
     },
 
     {
@@ -27,7 +27,7 @@ const pieces = [
         technique: 'Mixta',
         measures: '50cm x 40cm',
         year: 2022,
-        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1659136978/obras-yuyi/DSC_0017_ioobqu.jpg'
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1660684210/obras-yuyi/DSC_0017_ioobqu-min_twgru4.jpg'
     },
 
     {
@@ -37,7 +37,7 @@ const pieces = [
         technique: 'Tinta',
         measures: '55cm x 45cm',
         year: 2022,
-        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1659136980/obras-yuyi/DSC_0021_unukcg.jpg'
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1660684210/obras-yuyi/DSC_0021_unukcg-min_e43lrs.jpg'
     },
 
     {
@@ -47,7 +47,7 @@ const pieces = [
         technique: 'Acrílico',
         measures: '30cm x 40cm',
         year: 2016,
-        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1659993130/obras-yuyi/DSC_0024_qsewwy.jpg'
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1660684210/obras-yuyi/DSC_0024_qsewwy-min_kz0ath.jpg'
     },
 
     {
@@ -57,7 +57,7 @@ const pieces = [
         technique: 'Óleo',
         measures: '40cm x 55cm',
         year: 2018,
-        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1660496825/obras-yuyi/DSC_0023_eq8xqp_ybpnkz.jpg'
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1660684210/obras-yuyi/DSC_0023_eq8xqp_ybpnkz-min_p7hab6.jpg'
     },
 
 
