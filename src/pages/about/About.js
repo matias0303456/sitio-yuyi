@@ -65,6 +65,10 @@ export default function About() {
 
                 </section>
 
+                <p className="backName">
+                    Fondo: "Células" de Y.F.
+                </p>
+
             </main>
 
             <Footer />

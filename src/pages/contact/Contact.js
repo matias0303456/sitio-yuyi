@@ -97,6 +97,10 @@ export default function Contact() {
 
                 </section>
 
+                <p className="backName">
+                    Fondo: "Células" de Y.F.
+                </p>
+
             </main>
 
             <Footer />

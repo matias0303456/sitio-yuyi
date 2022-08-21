@@ -25,6 +25,10 @@ export default function Gallery() {
 
                 </section>
 
+                <p className="backName">
+                    Fondo: "Células" de Y.F.
+                </p>
+
             </main>
 
             <Footer />

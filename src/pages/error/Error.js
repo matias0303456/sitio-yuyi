@@ -7,7 +7,7 @@ export default function Error() {
     return (
         <>
             <Header />
-            
+
             <Helmet>
                 <title>Amelia Yuyi Flores | 404</title>
             </Helmet>
@@ -15,6 +15,10 @@ export default function Error() {
             <main className="mainContent">
 
                 <h2>Página no encontrada</h2>
+
+                <p className="backName">
+                    Fondo: "Células" de Y.F.
+                </p>
 
             </main>
 
