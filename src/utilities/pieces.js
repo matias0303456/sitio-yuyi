@@ -3,7 +3,7 @@ const pieces = [
     {
         id: 1,
         title: 'Equinoccios',
-        series: 'Chacana Dorada',
+        series: 1,
         technique: 'Mixta',
         measures: '50cm x 40cm',
         year: 2022,
@@ -13,7 +13,7 @@ const pieces = [
     {
         id: 2,
         title: 'Cruz del Sur',
-        series: 'Chacana Dorada',
+        series: 1,
         technique: 'Mixta',
         measures: '40cm x 50cm',
         year: 2022,
@@ -23,7 +23,7 @@ const pieces = [
     {
         id: 3,
         title: 'Chaska (Estrella)',
-        series: 'Chacana Dorada',
+        series: 1,
         technique: 'Mixta',
         measures: '50cm x 40cm',
         year: 2022,
@@ -33,7 +33,7 @@ const pieces = [
     {
         id: 4,
         title: 'Invierno',
-        series: 'Estaciones',
+        series: 2,
         technique: 'Tinta',
         measures: '55cm x 45cm',
         year: 2022,
