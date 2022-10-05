@@ -22,6 +22,9 @@ export default function CarouselComponent() {
                                 <ul>
                                     {piece.series !== null && <li>Serie: {piece.series}</li>}
                                     <li>Técnica: {piece.technique}</li>
+                                    {piece.technique === 'Escultura' &&
+                                        <li>Materiales: {piece.materials}</li>
+                                    }
                                     <li>Medidas: {piece.measures}</li>
                                     <li>Año: {piece.year}</li>
                                 </ul>
