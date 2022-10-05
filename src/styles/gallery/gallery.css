@@ -10,16 +10,17 @@
     box-shadow: 5px 5px 10px black;
 }
 
+.carItem {
+    text-align: center;
+}
+
 .galleryDisplayer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin: 0 auto;
     width: calc(100% - 300px);
-}
-
-.carItem {
-    text-align: center;
+    background-color: red;
 }
 
 .carouselImage {
