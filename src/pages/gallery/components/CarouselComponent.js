@@ -6,7 +6,7 @@ import series from "../../../utilities/series"
 export default function CarouselComponent() {
     return (
         <Carousel id="piecesCarousel" interval={null}>
-            {pieces.map(piece => {
+            {pieces.filter(piece => piece.series === null).map(piece => {
                 return (
                     <Carousel.Item key={piece.id} className="carItem">
                         <div className="galleryDisplayer">
