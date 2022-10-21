@@ -84,21 +84,11 @@ const pieces = [
     {
         id: 9,
         title: 'Claveles',
-        series: 'Flores',
+        series: 3,
         technique: 'Acrílico sobre cartón - Con marco de madera y vidrio',
         measures: '40cm x 30cm ',
         year: 2021,
         image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1664995394/obras-yuyi/DSC_0028_limwfb.jpg'
-    },
-
-    {
-        id: 10,
-        title: 'Caminos Áridos',
-        series: null,
-        technique: 'Óleo',
-        measures: '18cm x 24cm',
-        year: 2020,
-        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1664995396/obras-yuyi/DSC_0024_wqts8q.jpg'
     },
 
     {
@@ -112,13 +102,72 @@ const pieces = [
     },
 
     {
-        id: 12,
-        title: 'Los Frailes',
-        series: null,
-        technique: 'Mixta',
-        measures: '30cm x 40cm',
-        year: 2016,
-        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1664995397/obras-yuyi/DSC_0033_bgtjp6.jpg'
+        id: 13,
+        title: 'Glisinas',
+        series: 3,
+        technique: 'Acrílico sobre cartón - Con marco de madera y vidrio',
+        measures: '40cm x 30cm',
+        year: 2021,
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1666209625/obras-yuyi/DSC_0038-min_opr3s2.jpg'
+    },
+
+    {
+        id: 14,
+        title: 'Sin tiempo',
+        series: 4,
+        technique: 'Pastel',
+        measures: '45cm x 35cm',
+        year: 2020,
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1666369615/obras-yuyi/WhatsApp_Image_2022-10-21_at_13.00.36_zdkoc0.jpg'
+    },
+
+    {
+        id: 15,
+        title: 'Tiempo anunciado',
+        series: 4,
+        technique: 'Pastel',
+        measures: '45cm x 35cm',
+        year: 2020,
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1666369615/obras-yuyi/DSC_0043-min_hho8u7.jpg'
+    },
+
+    {
+        id: 16,
+        title: 'Tiempo de espera',
+        series: 4,
+        technique: 'Pastel',
+        measures: '45cm x 35cm',
+        year: 2020,
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1666369613/obras-yuyi/DSC_0044-min_jgci4h.jpg'
+    },
+
+    {
+        id: 17,
+        title: 'Tiempo dorado',
+        series: 4,
+        technique: 'Pastel',
+        measures: '45cm x 35cm',
+        year: 2020,
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1666369607/obras-yuyi/DSC_0045-min_h8s1lt.jpg'
+    },
+
+    {
+        id: 18,
+        title: 'Tiempo ganado',
+        series: 4,
+        technique: 'Pastel',
+        measures: '45cm x 35cm',
+        year: 2020,
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1666369610/obras-yuyi/DSC_0041-min_jexue1.jpg'
+    },
+    {
+        id: 19,
+        title: 'Tiempo lejano',
+        series: 4,
+        technique: 'Pastel',
+        measures: '45cm x 35cm',
+        year: 2020,
+        image: 'https://res.cloudinary.com/dna8yz36g/image/upload/v1666369611/obras-yuyi/DSC_0042-min_i0jjjs.jpg'
     }
 
 ]

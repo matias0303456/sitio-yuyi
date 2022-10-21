@@ -27,8 +27,7 @@
 
 body {
   background-image: url('../../assets/celulas.jpeg');
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
   padding: 13px;
   padding-bottom: 0;
 }

@@ -8,6 +8,16 @@ const series = [
     {
         id: 2,
         name: 'Estaciones'
+    },
+
+    {
+        id: 3,
+        name: 'Flores'
+    },
+
+    {
+        id: 4,
+        name: 'Tiempo'
     }
 
 ]
