@@ -1,0 +1,60 @@
+.accordion-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.accordion-list .accordion-item {
+    margin: 0 auto;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    border: 0;
+    width: 60%;
+}
+
+.accordion-list .accordion-item:first-child {
+    margin-top: 20px;
+}
+
+.accordion-list .accordion-item:last-child {
+    margin-bottom: 0;
+}
+
+.accordion-list .accordion-item img {
+    width: 30%;
+    box-shadow: 3px 3px 5px #000;
+}
+
+.accordion-list .accordion-item .accordion-piece-data {
+    color: #000;
+}
+
+@media (max-width:900px) {
+
+    .accordion-list .accordion-item img {
+        width: 50%;
+    }
+
+}
+
+@media (max-width:650px) {
+
+    .accordion-list .accordion-item {
+        width: 80%;
+    }
+
+    .accordion-list .accordion-item img {
+        width: 80%;
+    }
+
+    .accordion-list .accordion-item {
+        flex-direction: column;
+    }
+
+    .accordion-list .accordion-item .accordion-piece-data {
+        text-align: center;
+    }
+
+}

@@ -1,27 +1,25 @@
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet"
 
-import Footer from "../../components/Footer";
-import Header from "../../components/Header";
-import CarouselComponent from "./components/CarouselComponent";
+import Header from "../../components/Header"
+import Footer from "../../components/Footer"
+import SeriesAccordion from "./components/SeriesAccordion"
 
-export default function Gallery() {
-
-
+export default function Series() {
     return (
         <>
             <Header />
 
             <Helmet>
-                <title>Amelia Yuyi Flores | Obras</title>
+                <title>Amelia Yuyi Flores | Series</title>
             </Helmet>
 
             <main className="mainContent">
 
                 <section id="galleryContainer">
 
-                    <h2>Galería</h2>
+                    <h2>Series</h2>
 
-                    <CarouselComponent />
+                    <SeriesAccordion />
 
                 </section>
 
