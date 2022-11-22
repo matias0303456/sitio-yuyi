@@ -30,6 +30,17 @@ export default function CarouselComponent() {
                                     }
                                     <li>Medidas: {piece.measures}</li>
                                     <li>Año: {piece.year}</li>
+                                    {piece.description &&
+                                        <li style={{
+                                            marginTop: "20px",
+                                            fontStyle: "italic",
+                                            fontSize: '1rem',
+                                            color: "#000"
+                                        }}
+                                        >
+                                            {piece.description}
+                                        </li>
+                                    }
                                 </ul>
                             </div>
                         </div>

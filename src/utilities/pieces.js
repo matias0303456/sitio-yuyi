@@ -63,6 +63,7 @@ const pieces = [
     {
         id: 7,
         title: 'Devenir',
+        description: 'Esta obra participó de la Bienal de Vitrofusión de Costa Rica y fue donada al Museo de la UNSa',
         series: null,
         technique: 'Escultura',
         materials: 'Tronco - madera - alambre - plancha de silicona - hilo de yaguar - harina de arroz',
