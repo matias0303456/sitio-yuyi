@@ -9,6 +9,7 @@ import Error from '../pages/error/Error'
 export default function Router() {
     return (
         <Routes>
+            <Route path="" element={<Series />} />
             <Route path="/" element={<Series />} />
             <Route path="/obras" element={<Gallery />} />
             <Route path="/acerca-de" element={<About />} />
