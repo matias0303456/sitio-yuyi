@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa5cda49.css",
-    "main.js": "/static/js/main.40e31d74.js",
-    "static/media/celulas.jpeg": "/static/media/celulas.4b12cb5d7319fdc05dda.jpeg",
-    "static/media/niconne-all-400-normal.woff": "/static/media/niconne-all-400-normal.bf238f149f4ed29eee67.woff",
-    "static/media/niconne-latin-400-normal.woff2": "/static/media/niconne-latin-400-normal.c13090736b98f64bf31a.woff2",
-    "static/media/strait-all-400-normal.woff": "/static/media/strait-all-400-normal.0b3e3cfdb621b3f9b884.woff",
-    "static/media/strait-latin-400-normal.woff2": "/static/media/strait-latin-400-normal.ed20cdf55abbe8b2c598.woff2",
-    "static/media/niconne-latin-ext-400-normal.woff2": "/static/media/niconne-latin-ext-400-normal.e665313a85cf7275998e.woff2",
-    "index.html": "/index.html",
-    "main.fa5cda49.css.map": "/static/css/main.fa5cda49.css.map",
-    "main.40e31d74.js.map": "/static/js/main.40e31d74.js.map"
+    "main.css": "./static/css/main.ef070224.css",
+    "main.js": "./static/js/main.40e31d74.js",
+    "static/media/celulas.jpeg": "./static/media/celulas.4b12cb5d7319fdc05dda.jpeg",
+    "static/media/niconne-all-400-normal.woff": "./static/media/niconne-all-400-normal.bf238f149f4ed29eee67.woff",
+    "static/media/niconne-latin-400-normal.woff2": "./static/media/niconne-latin-400-normal.c13090736b98f64bf31a.woff2",
+    "static/media/strait-all-400-normal.woff": "./static/media/strait-all-400-normal.0b3e3cfdb621b3f9b884.woff",
+    "static/media/strait-latin-400-normal.woff2": "./static/media/strait-latin-400-normal.ed20cdf55abbe8b2c598.woff2",
+    "static/media/niconne-latin-ext-400-normal.woff2": "./static/media/niconne-latin-ext-400-normal.e665313a85cf7275998e.woff2",
+    "index.html": "./index.html",
+    "main.ef070224.css.map": "./static/css/main.ef070224.css.map",
+    "main.40e31d74.js.map": "./static/js/main.40e31d74.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa5cda49.css",
+    "static/css/main.ef070224.css",
     "static/js/main.40e31d74.js"
   ]
 }
