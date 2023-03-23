@@ -10,22 +10,22 @@ export default function Header() {
             <nav>
                 <ul>
                     <li>
-                        <Link to="/">
+                        <Link to="/sitio-yuyi/">
                             Series
                         </Link>
                     </li>
                     <li>
-                        <Link to="/obras">
+                        <Link to="/sitio-yuyi/obras">
                             Obras
                         </Link>
                     </li>
                     <li>
-                        <Link to="/acerca-de">
+                        <Link to="/sitio-yuyi/acerca-de">
                             Acerca de
                         </Link>
                     </li>
                     <li>
-                        <Link to="/contacto">
+                        <Link to="/sitio-yuyi/contacto">
                             Contacto
                         </Link>
                     </li>
